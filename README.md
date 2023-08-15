@@ -3,7 +3,7 @@
 
 
 ## Screenshots
-[Click here to view/download the video]([url_of_the_raw_video_file](https://github.com/tokhy1/Meditation_UI/blob/main/Screenshots/2023-08-15%2022-35-12.mp4)https://github.com/tokhy1/Meditation_UI/blob/main/Screenshots/2023-08-15%2022-35-12.mp4)
+https://github.com/tokhy1/Meditation_UI/assets/140895791/83f88e7a-28b1-464e-9f49-d8b58bf96ab1
 
 
 ## Features 
