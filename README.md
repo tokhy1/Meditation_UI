@@ -22,4 +22,6 @@ https://github.com/tokhy1/Meditation_UI/assets/140895791/83f88e7a-28b1-464e-9f49
 
 ## Contact
 get in touch with me at mohamed21346587@gmail.com
+
+Happy Coding!
   
